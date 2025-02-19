@@ -1,4 +1,14 @@
-# Bootcamp Dio - Bradesco Java Cloud Native - Projeto Conta Bancaria Console.
+# Bootcamp Dio - Bradesco Java Cloud Native. 
 
-Trata-se de um "Desafio" bem simples cujo objetivo é colocar em prática os fundamentos da linguagem Java, Noções de Regras de Estrutura de Sintaxe.
-Com a crescente dos Frameworks, muitas vezes não exercitamos o básico da linguagem, o que para quem está começando não traz muitos benefícios. Conhecer como as coisas acontecem é muito importante, e para isso temos que usar os recursos da linguagem no "braço".
+<br>
+
+### 🚀 Dominar deploys em nuvem com sucesso!
+
+<br>
+<br>
+
+<p>Esse bootcamp está sendo uma excelente oportunidade para aprimorar habilidades em deploys na nuvem e arquitetura de microsserviços. O uso de Java, Spring Boot e Red Hat OpenShift são tecnologias que têm ganhado destaque no mercado, especialmente por sua robustez e capacidade de escalar sistemas. </p>
+<p>A interação durante as mentorias ao vivo, onde é possível aprender com os especialistas, é uma maneira ótima de aprofundar o conhecimento de práticas reais e tendências. Além disso, os desafios de código e projetos práticos ajudam a consolidar o que é aprendido, permitindo aplicar de forma concreta em cenários reais. Tudo isso contribui para meu crescimento profissional e fortalece meu portfólio, aumentando minha competitividade no mercado. </p>
+Estou animado para continuar absorvendo todo o conteúdo e aplicar o que aprendi!
+
+![image](https://github.com/user-attachments/assets/42ec27ff-8ad9-45b4-b688-3802a4606288)
